@@ -1,0 +1,97 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAppBar</item>
+        <item name="colorPrimaryDark">@color/colorStatusBar</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!-- Custom style for the tabs-->
+    <style name="Tabs" parent="Widget.Design.TabLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="tabTextColor">@color/tablet_color</item>
+        <item name="tabSelectedTextColor">@color/tablet_color_selected</item>
+        <item name="tabBackground">@color/tablet_background</item>
+        <item name="tabIndicatorColor">@color/tablet_color_selected</item>
+        <item name="tabTextAppearance">@style/AppTabTextAppearance</item>
+    </style>
+    <style name="AppTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <!-- Custom style for the FrameLayout in list_item.xml-->
+    <style name="frame_layout_list_item_xml">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/frame_layout_height</item>
+        <item name="android:layout_margin">@dimen/four_dp</item>
+        <item name="android:background">@android:drawable/dialog_holo_light_frame</item>
+    </style>
+    <!-- Custom style for the ImageView in list_item.xml-->
+    <style name="image_view_list_item_xml">
+        <item name="android:layout_width">@dimen/image_layout_width</item>
+        <item name="android:layout_height">@dimen/image_layout_height</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+    <!-- Custom style for the RelativeLayout in list_item.xml-->
+    <style name="relative_layout_list_item_xml">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginBottom">@dimen/four_dp</item>
+        <item name="android:layout_marginTop">@dimen/four_dp</item>
+        <item name="android:layout_marginLeft">@dimen/relative_layout_marginLeftAndStart</item>
+    </style>
+    <!-- Custom style for the TextView that represents place name in list_item.xml-->
+    <style name="place_name_text_view_list_item_xml">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">@dimen/four_dp</item>
+        <item name="android:layout_marginLeft">@dimen/four_dp</item>
+        <item name="android:layout_marginRight">@dimen/four_dp</item>
+        <item name="android:textSize">@dimen/place_name_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:lines">1</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style>
+    <!-- Custom style for the TextView that represents place description in list_item.xml-->
+    <style name="place_description_text_view_list_item_xml">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/four_dp</item>
+        <item name="android:layout_marginRight">@dimen/four_dp</item>
+        <item name="android:textSize">@dimen/place_description_text_size</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:lines">3</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:layout_below">@id/place_name</item>
+    </style>
+    <!-- Custom style for the TextView that represents place address in list_item.xml-->
+    <style name="place_address_text_view_list_item_xml">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/four_dp</item>
+        <item name="android:textSize">@dimen/place_address_text_size</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <!-- Custom style for the LinearLayout in activity_main.xml-->
+    <style name="linear_layout_activity_main_xml">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+    <!-- Custom style for the ViewPager in activity_main.xml-->
+    <style name="viewpager_activity_main_xml">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <!-- Custom style for the ListView in place_list.xml-->
+    <style name="list_view_place_list_xml">
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:drawSelectorOnTop">true</item>
+    </style>
+
+</resources>

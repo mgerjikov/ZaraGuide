@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAppBar">#c7c7c7</color>
+    <color name="colorStatusBar">#c7c7c7</color>
+    <color name="colorAccent">#c7c7c7</color>
+    <color name="tablet_color">#e0e0e0</color>
+    <color name="tablet_color_selected">#c47f7f</color>
+    <color name="tablet_background">#ffffff</color>
+</resources>

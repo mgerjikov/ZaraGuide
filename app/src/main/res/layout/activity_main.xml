@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/linear_layout_activity_main_xml"
+    tools:context="com.example.android.zaraguide.MainActivity">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabs"
+        style="@style/Tabs" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        style="@style/viewpager_activity_main_xml" />
+
+
+</LinearLayout>

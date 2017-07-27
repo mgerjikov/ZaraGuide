@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/frame_layout_list_item_xml">
+
+    <ImageView
+        android:id="@+id/list_image"
+        style="@style/image_view_list_item_xml"
+        tools:background="@drawable/sputnik_bar" />
+
+    <RelativeLayout style="@style/relative_layout_list_item_xml">
+
+        <TextView
+            android:id="@+id/place_name"
+            style="@style/place_name_text_view_list_item_xml"
+            tools:text="Place name" />
+
+        <TextView
+            android:id="@+id/place_description"
+            style="@style/place_description_text_view_list_item_xml"
+            tools:text="Place Description" />
+
+        <TextView
+            android:id="@+id/place_address"
+            style="@style/place_address_text_view_list_item_xml"
+            tools:text="Place Address" />
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height for the Frame Layout in list_item.xml -->
+    <dimen name="frame_layout_height">131dp</dimen>
+    <!-- Dimension for 4 dp -->
+    <dimen name="four_dp">4dp</dimen>
+    <!-- Dimension for 8 dp -->
+    <dimen name="eight_dp">8dp</dimen>
+    <!-- Dimension for Height of the ImageView in list_item.xml -->
+    <dimen name="image_layout_height">115dp</dimen>
+    <!-- Dimension for Width of the ImageView in list_item.xml -->
+    <dimen name="image_layout_width">110dp</dimen>
+    <!-- Dimension for RelativeLayout marginLeft and marginStart so
+        the layout stands away from the ImageView -->
+    <dimen name="relative_layout_marginLeftAndStart">118dp</dimen>
+    <!-- Scale-independent Pixels for the text representing Place name in ist_item.xml -->
+    <dimen name="place_name_text_size">18sp</dimen>
+    <!-- Scale-independent Pixels for the text representing Place description in ist_item.xml -->
+    <dimen name="place_description_text_size">14sp</dimen>
+    <!-- Scale-independent Pixels for the text representing Place address in ist_item.xml -->
+    <dimen name="place_address_text_size">12sp</dimen>
+</resources>

@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">ZaraGuide</string>
+
+    <string name="tab_name_sights">Sights</string>
+    <string name="tab_name_museums">Museums</string>
+    <string name="tab_name_restaurants">F &amp; D</string>
+    <string name="tab_name_nightlife">Nightlife</string>
+    <!-- String text for SIGHTS -->
+    <string name="alexander_nevsky_name">Alexander Nevsky Cathedral</string>
+    <string name="alexander_nevsky_address">sq Sveti Aleksandar Nevski, 1000 Sofia</string>
+    <string name="alexander_nevsky_description">The gold-domed Alexander Nevsky Cathedral was built in the early 20th century in memory of the 200,000 Russian, Ukrainian, Belorussian and Bulgarian soldiers, who died in the Russo-Turkish War, 1877–1878. It is one of the largest Eastern Orthodox cathedrals in the world. The cathedrals gold-plated dome is 45 m high, with the bell tower reaching 50.52 m.</string>
+    <string name="boyana_church_name">Boyana Church</string>
+    <string name="boyana_church_address">1–3 Boyansko Ezero St. Sofia</string>
+    <string name="boyana_church_description">The Boyana Church, in the eponymous Sofia suburb at the foot of Mt. Vitosha, is one of the few complete and perfectly preserved mediaeval monuments testifying to the significant contribution of Bulgarian monumental painting to European culture in the Middle Ages.</string>
+    <string name="sofia_university_name">Sofia University</string>
+    <string name="sofia_university_address">1504 Sofia, 15 Tsar Osvoboditel Blvd.</string>
+    <string name="sofia_university_description">The St. Clement of Ohrid University of Sofia or Sofia University is the oldest higher education institution in Bulgaria, founded on 1 October 1888. The universitys edifice was constructed between 1924 and 1934 with the financial support of the brothers Evlogi Georgiev and Hristo Georgiev, whose sculptures are now featured on its facade, and has an area of 18,624 m² and a total of 324 premises.</string>
+    <string name="vazov_theatre_name">Ivan Vazov National Theater</string>
+    <string name="vazov_theatre_address">5 Dyakon Ignatiy St. Sofia</string>
+    <string name="vazov_theatre_description">The “Ivan Vazov” National Theatre is Bulgaria’s biggest theatre, as well as the oldest and most stand out and most imposing theatre in the country. This theatre is one of the major landmarks in Sofia due to its prime location and grandiose architecture.</string>
+    <string name="russian_church_name">Russian church in Sofia</string>
+    <string name="russian_church_address">3 Tzar Osvoboditel Blvd. Sofia</string>
+    <string name="russian_church_description">The Russian Church, officially known as the Church of St Nicholas the Miracle-Maker, is a Russian Orthodox church in central Sofia, Bulgaria, situated on Tsar Osvoboditel Boulevard.</string>
+    <string name="art_gallery_name">The National Art Gallery</string>
+    <string name="art_gallery_address">sq Knyaz Aleksandar I, 1000 Sofia</string>
+    <string name="art_gallery_description">The palace was built shortly after Bulgaria’s proclamation of independence from the Ottoman Empire (1878) and the selection of the city of Sofia to be the country’s capital. The palace was built in two stages. It was started by Prince Alexander I Battenberg, Bulgaria’s first monarch (1879–1886), who enlisted the services of Viktor Rumpelmeyer, an architect from Vienna, to design the remodeling of what was a Turkish administrative building and refashion it into an official palace. </string>
+    <!-- String text for MUSEUMS -->
+    <string name="historical_museum_name">National History Museum</string>
+    <string name="historical_museum_address">Boyana residence</string>
+    <string name="historical_museum_description">Founded in 1973, the National Museum of History in Sofia contains more than 650,000 exhibits and is one of the largest history museums on the Balkans. The aim of the museum is to provide a comprehensive view on Bulgarian history from the prehistory to present, in as broad an European context as possible.</string>
+    <string name="earth_man_museum_name">Earth and Man National Museum</string>
+    <string name="earth_man_museum_adress">bulevard Cherni vrah 4, 1421 Sofia</string>
+    <string name="earth_man_museum_description">The Earth and Man National Museum is a mineralogical museum in the centre of Sofia, the capital of Bulgaria. It\'s one of the biggest mineralogical museums in the world. It was founded on 30 December 1985 and opened for visitors on 19 June 1987. </string>
+    <string name="natural_museum_name">National Museum of Natural History</string>
+    <string name="natural_museum_address">Blvd. Tsar Osvoboditel 1, 1000 Sofia</string>
+    <string name="natural_museum_description">Being the first and the richest natural history museum on the Balkans, the National Museum of Natural History in Sofia (NMNHS) studies, preserves and disseminates information about the living and non-living nature both in Bulgaria and throughout the world</string>
+    <string name="military_museum_name">National Military History Museum</string>
+    <string name="military_museum_address">92nd Cherkovna St, 1505 Sofia</string>
+    <string name="military_museum_description">The National Military History Museum is a museum dedicated to military history in Sofia, Bulgaria. A structure of the Ministry of Defence, it has existed under various names and subordinate to various institutions since 1 August 1914.</string>
+    <string name="soc_museum_name">Museum of Socialist Art</string>
+    <string name="soc_museum_address">7th Lachezar Stanchev St. 1756 Sofia</string>
+    <string name="soc_museum_description">The Museum of Socialist Art in Sofia, is a museum of art which covers the history of the communist regime in Bulgaria.</string>
+    <string name="sofia_history_museum_name">Museum of Sofia history</string>
+    <string name="sofia_history_museum_address">Centre, 1000 Sofia</string>
+    <string name="sofia_history_museum_description">The north wing was damaged during the bombing of Sofia in World War II, but was restored several years later. The baths continued to work as public baths until 1986, when the building was closed due to its bad condition and the possible collapse of the roof. It was subsequently partially reconstructed and thoroughly cleaned and accommodates the Museum of Sofia history since September 2015.</string>
+    <!-- String text for FOOD&DRINKS -->
+    <string name="spaghetti_kitchen_name">Spaghetti Kitchen</string>
+    <string name="spaghetti_kitchen_address">6th Septemvri 9 St., Sofia</string>
+    <string name="spaghetti_kitchen_description">It’s simply impossible for you to remain indifferent</string>
+    <string name="rakia_bar_name">Rakia Raketa Bar</string>
+    <string name="rakia_bar_address">Blvd. Yanko Sakazov 17, 1527 Sofia</string>
+    <string name="rakia_bar_description">Unsurprisingly, this rakish communist-era retro bar has a huge selection of rakia</string>
+    <string name="made_in_home_name">Made in Home</string>
+    <string name="made_in_home_address">30th Angel Kanchev St. Sofia</string>
+    <string name="made_in_home_description">Quirkily designed restaurant on one of Sofias popular city centre back streets.</string>
+    <string name="sasa_pub_name">SASA Asian Pub</string>
+    <string name="sasa_pub_address">sq Narodno sabranie 4, Sofia</string>
+    <string name="sasa_pub_description">SASA is an experience for all the senses, culinary meeting of East and West.</string>
+    <string name="marionet_bar_dinner_name">MARIONETTE Bar &amp; Dinner</string>
+    <string name="marionet_bar_dinner_address">Blvd "James Bourchier" 100, Sofia</string>
+    <string name="marionet_bar_dinner_description">Provocative and sophisticated gourmet cuisine.</string>
+    <string name="la_bottega_centro_name">La bottega Centro</string>
+    <string name="la_bottega_centro_address">41st Han Asparuh St. 1463 Sofia</string>
+    <string name="la_bottega_centro_description">Veal ribs, cooked in sous-vide, glazed with Marsala, served with roasted carrots and potato-leek-fennel gratin</string>
+    <!-- String text for NIGHTLIFE -->
+    <string name="sputnik_bar_name">Sputnik Bar</string>
+    <string name="sputnik_bar_address">Blvd. Yanko Sakazov 17, 1527 Sofia</string>
+    <string name="sputnik_bar_description">A bar that’s shaken up the Sofia bar scene since it opened</string>
+    <string name="petuk_bar_name">Bar Petak</string>
+    <string name="petuk_bar_address">19 Gurko St. Sofia</string>
+    <string name="petuk_bar_description">Petak means Friday - and Bar Petak is the place to be on a Friday night</string>
+    <string name="hambara_bar_name">Hambara</string>
+    <string name="hambara_bar_adress">6th Septemvri 22 St. Sofia</string>
+    <string name="hambara_bar_description">Its hidden location only adds to the secluded, candle-lit atmosphere of the bar</string>
+    <string name="sterling_bar_name">Sterling Club</string>
+    <string name="sterling_bar_address">103 Ekzarh Yosif St. Sofia</string>
+    <string name="sterling_bar_description">A dose of art atmosphere with classical rock and jazz music.</string>
+    <string name="ink_bar_name">Ink. Bar</string>
+    <string name="ink_bar_address">36 Slavyanska St. Sofia</string>
+    <string name="ink_bar_description">The idea of Ink. BAR is to feel at home - a place to escape from your everyday life.</string>
+    <string name="ome_more_bar_name">One More Bar</string>
+    <string name="one_more_bar_address">12 Tsar Shishman St. Sofia</string>
+    <string name="one_more_bar_description">Located in an old house just off one of Sofia’s most famous streets</string>
+</resources>
